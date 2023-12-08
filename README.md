@@ -6,4 +6,4 @@ The ImageSearchApp is a powerful and user-friendly application that allows users
 #Technologies used :
 1 HTML
 2 CSS
-3 JavaScript
+3 JavaScript & API
